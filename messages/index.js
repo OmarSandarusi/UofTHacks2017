@@ -94,4 +94,3 @@ function removeByValue(value, teams) {
     newTeams.splice(index, 1);
     return newTeams;    
 } 
-
